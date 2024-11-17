@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreekrishna Bhattarai</h1>
-<h3 align="center">A passionate data scientist from Nepal.</h3>
-
-- 🔭 I’m currently working on **credit card fraud detection**
+<h3 align="center"> passionate in IT from Nepal.</h3>
 
 - 🌱 I’m currently learning **powerbi, taleau,**
 
